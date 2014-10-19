@@ -1,4 +1,4 @@
 NYTimes-Analysis
 ================
 
-Perform analysis of NY times data
+Data analysis on New York Times Datasets.
