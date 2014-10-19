@@ -1,6 +1,7 @@
 from nytimesarticle import articleAPI
 import json
-api = articleAPI('5cd14aa7c4f0c21e6773773aec5271cc:5:70018051')
+from secret import APIKey
+api = articleAPI(APIKey)
 
 testfile = open("foo.txt","ab")
 
